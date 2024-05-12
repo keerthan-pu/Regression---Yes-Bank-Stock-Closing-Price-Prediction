@@ -21,7 +21,7 @@ Main Libraries to be Used:
 # Project Architecture
 ![image](https://github.com/keerthan-pu/Regression---Yes-Bank-Stock-Closing-Price-Prediction/assets/114256472/45657b3f-8a61-44a3-a7ab-712cd10e1797)
 
-# task performed
+# Task performed
 1) Data Cleaning :- Dealing with null values, duplicate data and outliers present in our data.
 
 2) Exploratory Data Analysis :- Plotting the dependent variable and distributions of dependent and independent variables. Checking and visualizing the correlation between our dependent and independent variables. Visualizing the relationship between each pair of our variables.
